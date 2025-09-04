@@ -11,19 +11,19 @@ The project evaluates the adversarial vulnerabilities of machine learning models
 
 📂 Repository Structure
 
-final_code_1.ipy → Main Jupyter Notebook for preprocessing, training, adversarial evaluation, and defenses.
+-final_code_1.ipy → Main Jupyter Notebook for preprocessing, training, adversarial evaluation, and defenses.
 
 “This notebook uses interactive widgets which GitHub cannot render. Please open in Jupyter/Colab for full functionality.”
 
 https://colab.research.google.com/drive/1LysT2-QM3TaeEXBGGT2molkzb2_ywOc-
 
-20k_dataset_preprocessed.csv → Cleaned dataset (post preprocessing).
+-20k_dataset_preprocessed.csv → Cleaned dataset (post preprocessing).
 
-20k_dataset_ml_ready.csv → Feature-engineered dataset ready for ML training.
+-20k_dataset_ml_ready.csv → Feature-engineered dataset ready for ML training.
 
-final_balanced_dataset_20k.csv → Stratified 20k balanced dataset used for experiments.
+-final_balanced_dataset_20k.csv → Stratified 20k balanced dataset used for experiments.
 
-README.md → Project description and usage instructions.
+-README.md → Project description and usage instructions.
 
 📊 Datasets Used
 
