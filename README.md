@@ -11,7 +11,7 @@ The project evaluates the adversarial vulnerabilities of machine learning models
 
 📂 Repository Structure
 
--final_code_1.ipy → Main Jupyter Notebook for preprocessing, training, adversarial evaluation, and defenses.
+-final_code.py → Main Jupyter Notebook for preprocessing, training, adversarial evaluation, and defenses.
 
 “This notebook uses interactive widgets which GitHub cannot render. Please open in Jupyter/Colab for full functionality.”
 
